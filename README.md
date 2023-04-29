@@ -1,7 +1,7 @@
 ﻿# AI_Multifunctional_bot
 
 
-## AI Chatbot
+
 This program provides the following functionalities:
 
 ## Summarize text:
@@ -27,7 +27,7 @@ Usage
 To run the program, open your command prompt or terminal and navigate to the directory where the code is saved. Then, enter the following command:
 
 Copy code
-### python chatbot.py
+### tech_titans.py
 This will launch the program, and you will see a menu with the available options. Enter the number corresponding to the option you want to use, and follow the prompts.
 
 Functions
