@@ -3,7 +3,7 @@ import json
 import re
 
 # Set up OpenAI API credentials
-API_KEY = "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"
+API_KEY = "Open AI API key"
 
 
 def summarize(text):
